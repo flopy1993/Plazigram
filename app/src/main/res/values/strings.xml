@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Platzigram</string>
+    <string name="title_activity_reference">ReferenceActivity</string>
+    <string name="hint_username">Nombre de Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">Login</string>
+    <string name="dont_have_account">¿No tienes cuenta?, </string>
+    <string name="create_here">Crea una aquí</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_confirmPassword">Confirmar Contraseña</string>
+    <string name="text_button_createaccont">Únete</string>
+    <string name="toolbar_tittle_createaccount">Crear Cuenta</string>
+    <string name="username_card">Uriel Ramírez</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timecard_card">4 días</string>
+    <string name="likenumbercard_card">10 Me gusta</string>
+
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Inicio</string>
+    <string name="tab_profile">Yo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="secondword_detail">Me Gusta</string>
+    <string name="titleimagedetail">\"Playa\"</string>
+    <string name="lorem">CoordinatorLayout, ayuda a especificar comportamientos de interacciones en los views hijos, ayuda a controlar vistas flotantes.
+CollapsingToolbarLayout, es un wrapper para Toolbar el cual implementa el efecto collapsable en toolbar y los elementos hijos.
+Veamos cómo implementar esto en PlatziGram.
+    Veamos cómo trabajar onClick en un RecyclerView y con esto terminar nuestra vista de detalles.CoordinatorLayout, ayuda a especificar comportamientos de interacciones en los views hijos, ayuda a controlar vistas flotantes.
+CollapsingToolbarLayout, es un wrapper para Toolbar el cual implementa el efecto collapsable en toolbar y los elementos hijos.
+Veamos cómo implementar esto en PlatziGram.
+</string>
+    <string name="transitionname_picture">transitionname_picture</string>
+</resources>
