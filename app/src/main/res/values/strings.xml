@@ -32,4 +32,10 @@ CollapsingToolbarLayout, es un wrapper para Toolbar el cual implementa el efecto
 Veamos cómo implementar esto en PlatziGram.
 </string>
     <string name="transitionname_picture">transitionname_picture</string>
+    <string name="login_error">Ocurrió este error</string>
+    <string name="hint_title">Titulo</string>
+    <string name="hint_description">Descripcion</string>
+    <string name="text_button_createpost">Crear PoIst</string>
+
+
 </resources>

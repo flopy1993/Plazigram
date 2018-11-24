@@ -1,17 +1,14 @@
 package com.florcode.platzigram.view;
 
-import android.provider.ContactsContract;
-import android.support.annotation.IdRes;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.florcode.platzigram.R;
-import com.florcode.platzigram.view.fragment.HomeFragment;
+import com.florcode.platzigram.post.view.HomeFragment;
 import com.florcode.platzigram.view.fragment.ProfileFragment;
 import com.florcode.platzigram.view.fragment.SearchFragment;
 import com.roughike.bottombar.BottomBar;
-import com.roughike.bottombar.OnTabReselectListener;
 import com.roughike.bottombar.OnTabSelectListener;
 
 public class ContainerActivity extends AppCompatActivity {

@@ -17,5 +17,9 @@
     <string name="tab_home">Inicio</string>
     <string name="tab_profile">Yo</string>
     <string name="secondword_detail">Me Gusta</string>
+    <string name="login_error">Something happen</string>
+    <string name="hint_title">Titulo</string>
+    <string name="hint_description">Descripcion</string>
+    <string name="text_button_createpost">Crear PoIst</string>
 
 </resources>
