@@ -1,8 +1,11 @@
 package com.florcode.platzigram.login.interactor;
 
+import android.app.Activity;
+
 import com.florcode.platzigram.login.presenter.LoginPresenter;
 import com.florcode.platzigram.login.repository.LoginRepository;
 import com.florcode.platzigram.login.repository.LoginRepositoryImpl;
+import com.google.firebase.auth.FirebaseAuth;
 
 public class LoginInteractorImpl implements LoginInteractor {
 
@@ -15,7 +18,7 @@ public class LoginInteractorImpl implements LoginInteractor {
     }
 
     @Override
-    public void SignIn(String username, String password) {
-        repository.singIn(username, password);
+    public void SignIn(String username, String password, Activity activity, FirebaseAuth firebaseAuth) {
+        repository.singIn(username, password, activity, firebaseAuth);
     }
 }

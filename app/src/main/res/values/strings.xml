@@ -37,5 +37,8 @@ Veamos cómo implementar esto en PlatziGram.
     <string name="hint_description">Descripcion</string>
     <string name="text_button_createpost">Crear PoIst</string>
 
+    <string name="facebook_app_id">754565858238443</string>
+    <string name="fb_login_protocol_scheme">fb754565858238443</string>
+
 
 </resources>
